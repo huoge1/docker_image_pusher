@@ -1,6 +1,14 @@
 nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+# milvus 构建需要的镜像
+quay.io/coreos/etcd:v3.5.5
+minio/minio:RELEASE.2023-03-20T20-16-18Z
+milvusdb/milvus:v2.4.6
+zilliz/attu:v2.4.5
+# python
+python:3.10
+python:3.9
+python:3.11
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
