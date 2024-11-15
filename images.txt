@@ -6,6 +6,9 @@ quay.io/coreos/etcd:v3.5.5
 minio/minio:RELEASE.2023-03-20T20-16-18Z
 milvusdb/milvus:v2.4.6
 zilliz/attu:v2.4.5
+clickhouse:24.9.2.42
+postgres:17.1-bookworm
+pull mysql:8.0-bookworm
 # python
 python:3.10
 python:3.9
