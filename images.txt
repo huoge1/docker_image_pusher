@@ -1,3 +1,4 @@
+qdrant/qdrant
 ubuntu:22.04
 nginx
 #支持私库
