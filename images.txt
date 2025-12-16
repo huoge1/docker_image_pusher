@@ -1,3 +1,5 @@
+hugegraph/hugegraph:1.0.0
+hugegraph/hubble:latest
 qdrant/qdrant
 ubuntu:22.04
 nginx
