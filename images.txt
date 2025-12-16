@@ -1,4 +1,5 @@
 hugegraph/hugegraph:1.5.0
+hugegraph/hubble:1.5.0
 pytorch/pytorch:2.9.1-cuda12.8-cudnn9-runtime
 pytorch/pytorch:2.8.0-cuda12.8-cudnn9-runtime
 pytorch/pytorch:2.8.0-cuda12.8-cudnn9-devel
