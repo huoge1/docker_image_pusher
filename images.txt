@@ -1,3 +1,5 @@
+node:22-alpine
+docker.io/redis:7-alpine
 docker.io/searxng/searxng:latest
 hugegraph/hugegraph:1.5.0
 hugegraph/hubble:1.5.0
